@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+venv/
+.ipynb_checkpoints/
+*.csv
+*.zip
+*.tar.gz
+*.sqlite3
+.vscode/

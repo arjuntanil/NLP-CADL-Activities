@@ -1,0 +1,5 @@
+# Ignore output folder with large images
+/output/
+*.png
+*.jpg
+*.jpeg

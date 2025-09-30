@@ -1,0 +1,4 @@
+matplotlib
+wordcloud
+seaborn
+scikit-learn
